@@ -11,10 +11,7 @@ namespace Flip_vs
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, Gabriel!");
-            Console.WriteLine("Hello, Gabriel!");
-            Console.WriteLine("Hello, Gabriel!");
-            Console.WriteLine("Hello, Gabriel!");
-            Console.WriteLine("Hello, Gabriel!");
+           
 
 
 
