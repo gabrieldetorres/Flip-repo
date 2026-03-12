@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="ClassLibrary1/ClassLibrary1.csproj" Id="b380325f-18ae-4e08-8253-d3d98d39930c" />
-  <Project Path="Flip-vs.csproj" Id="b7225cee-ecee-4c9b-80ae-1c6722d819f7" />
+  <Project Path="Overtime-System/Overtime-System.csproj" Id="b4bd88a6-9303-48ad-8459-fef4c8561e8e" />
+  <Project Path="PROJECT-REPO.csproj" Id="b7225cee-ecee-4c9b-80ae-1c6722d819f7" />
 </Solution>

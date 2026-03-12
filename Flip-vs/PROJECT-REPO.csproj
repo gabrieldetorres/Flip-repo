@@ -54,6 +54,10 @@
       <Project>{b380325f-18ae-4e08-8253-d3d98d39930c}</Project>
       <Name>ClassLibrary1</Name>
     </ProjectReference>
+    <ProjectReference Include="Overtime-System\Overtime-System.csproj">
+      <Project>{b4bd88a6-9303-48ad-8459-fef4c8561e8e}</Project>
+      <Name>Overtime-System</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

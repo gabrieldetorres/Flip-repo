@@ -1,17 +1,22 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
+    using System.Threading.Tasks;
 
-namespace ClassLibrary1
-{
-    public class Class1
+
+    namespace ClassLibrary1
     {
-
-        public void SayHello()
+        public class Class1
         {
-            Console.WriteLine("Hello from the class library!");
+
+            public int Id {  get; set; }
+            public string Name { get; set; }
+
+            public TimeSpan TimeIn { get; set; }
+
+            public TimeSpan Timeout { get; set; }
+
+
         }
     }
-}
